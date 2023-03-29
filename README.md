@@ -12,6 +12,8 @@ Here are some ideas to get you started: -->
 - 🌱 I’m currently learning C#,TypeScript, Rust, and TDD.
 - I am studying coding tests on LeetCode to improve my coding skills. 
 - I'm interested in AWS and other cloud services.
+- "I'm considering migrating to Git as a version control system. 
+- And,i'm also interested in system operation using Docker."
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 😄 Pronouns: 
 - ⚡ Fun fact: 
